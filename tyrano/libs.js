@@ -28,7 +28,7 @@
     },
     
     $.getViewPort = function() {
-        var width, heiht;
+        var width, height;
         
         if (self.innerHeight) {
             // all except Explorer
